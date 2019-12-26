@@ -1,1 +1,1 @@
-Sample client JS: **src/main/resources/static/ **
+Sample client JS: src/main/resources/static
